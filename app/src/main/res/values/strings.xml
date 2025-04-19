@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">layoutingDigiteam</string>
+    <string name="digiteam" translatable="false">DigiTeam</string>
+    <string name="motto" translatable="false">Digital Together Everyone Achieve More Jabar Digital Service</string>
+    <string name="nama" translatable="false">Mochammad Rizky Firdaus</string>
+    <string name="job" translatable="false">Mahasiswa</string>
+    <string name="jamKerja" translatable="false">Jam Kerja Bulan Ini</string>
+    <string name="jamKerjaBulanIni" translatable="false">Jam Kerja Kamu Bulan Ini: 130.53 Jam</string>
+    <string name="batasMinimum" translatable="false">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="checkin" translatable="false">Checkin</string>
+    <string name="laporanKamu" translatable="false">Laporan Kamu</string>
+    <string name="buatLaporan" translatable="false">Buat Laporan</string>
+    <string name="izin" translatable="false">Izin</string>
+    <string name="kehadiran" translatable="false">Kehadiran</string>
+    <string name="laporan" translatable="false">Laporan</string>
+    <string name="agenda" translatable="false">Agenda</string>
+    <string name="booking" translatable="false">Booking</string>
+    <string name="wiki" translatable="false">Wiki</string>
+    <string name="maret" translatable="false">Maret</string>
+    <string name="april" translatable="false">April</string>
+    <string name="jam" translatable="false">130.53 JAM</string>
+</resources>
